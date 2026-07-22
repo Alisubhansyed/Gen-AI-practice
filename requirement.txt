@@ -6,3 +6,5 @@ python-dotenv
 langchain-google-genai
 langgraph
 langchain_tavily
+langchain-mcp-adapters
+mcp
