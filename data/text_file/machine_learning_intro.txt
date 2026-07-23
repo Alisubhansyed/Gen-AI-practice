@@ -1,0 +1,5 @@
+Machine Learning is a subset of artificial intelligence focused on building systems that learn from data. 
+    Instead of being explicitly programmed with rigid rules, these algorithms use statistical techniques to identify complex patterns. This enables computers to make accurate predictions or independent decisions on new, unseen datasets.
+    The discipline splits into three primary categories: supervised, unsupervised, and reinforcement learning. Supervised learning uses labeled training data to map inputs to outputs. Unsupervised learning finds hidden structures in unlabeled data.
+    Reinforcement learning trains software agents to maximize rewards through trial-and-error interactions with an environment.A typical machine learning workflow involves data collection, cleaning, feature engineering, model training, evaluation, and deployment.
+    Engineers utilize specialised frameworks to streamline these stages. This iterative process transforms raw historical data into predictive power, driving innovation across medical diagnostics, financial forecasting, autonomous vehicles, and personalized recommendation systems.

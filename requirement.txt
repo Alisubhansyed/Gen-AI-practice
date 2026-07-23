@@ -8,3 +8,7 @@ langgraph
 langchain_tavily
 langchain-mcp-adapters
 mcp
+langchain_text_splitters 
+sentence-transformers
+faiss-cpu
+chromadb
